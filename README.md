@@ -1,5 +1,6 @@
 ## Hi there 👋
 # 👋 Hi, I'm Md Abdul Haseeb Sagri.
+just an engineer(way to become polymath).
 
 💻 Computer Science Graduate  
 🚀 Python | JavaScript | Web Development  
@@ -80,8 +81,4 @@ To work as a developer building **efficient systems, automation tools, and scala
 📧 Email: abdulhaseebsagri@gmail.com 
 
 ---
-
-# 🐍 Fun Section — Simple Snake Game (JavaScript)
-
-Below is a basic Snake Game you can run in a browser.
 
