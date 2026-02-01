@@ -65,14 +65,18 @@ To work as a developer building **efficient systems, automation tools, and scala
 
 ## 🌐 Connect With Me
 🔗 LinkedIn:
-https://www.linkedin.com/in/md-abdul-haseeb-sagri/ ---
+https://www.linkedin.com/in/md-abdul-haseeb-sagri/
+---
 📸 Instagram:
-https://www.instagram.com/the_reckoner076/ ---
+https://www.instagram.com/the_reckoner076/ 
+---
 📸 twitter:
-https://x.com/SagriHasee7509 ---
+https://x.com/SagriHasee7509 
+---
 💬 WhatsApp:
-https://wa.me/917090884656  ---
+https://wa.me/917090884656  
+---
 📧 Email:
-abdulhaseebsagri@gmail.com ---
+abdulhaseebsagri@gmail.com 
 ---
 
